@@ -1,0 +1,3 @@
+tensorflow==2.6.0
+boto3==1.18.69
+numpy==1.19.5
